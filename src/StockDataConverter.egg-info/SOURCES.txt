@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+src/StockDataConverter.egg-info/PKG-INFO
+src/StockDataConverter.egg-info/SOURCES.txt
+src/StockDataConverter.egg-info/dependency_links.txt
+src/StockDataConverter.egg-info/not-zip-safe
+src/StockDataConverter.egg-info/requires.txt
+src/StockDataConverter.egg-info/top_level.txt
+tests/test_001_converter.py

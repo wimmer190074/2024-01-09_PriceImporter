@@ -1,0 +1,16 @@
+sqlalchemy
+pytest
+matplotlib
+pandas
+
+[dev]
+black
+pytest
+rope
+flake8
+flake8-eradicate
+flake8-isort
+flake8-spellcheck
+flake8-variables-names
+flake8-builtins
+ipython

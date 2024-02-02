@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: StockDataConverter
+Version: 1.0.0
+Summary: "This is a tool to convert stocks"
+Author: Jan Wimmer
+Provides-Extra: dev

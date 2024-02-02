@@ -20,4 +20,4 @@ def test_visualize_data(sample_csv_path):
     processor = StockDataProcessor(sample_csv_path)
     df = processor.import_data()
     plot = processor.visualize_data(df)
-    assert plot is not None  
+    assert plot is not None 

@@ -3,4 +3,18 @@ Name: StockDataConverter
 Version: 1.0.0
 Summary: "This is a tool to convert stocks"
 Author: Jan Wimmer
+Requires-Dist: sqlalchemy
+Requires-Dist: pytest
+Requires-Dist: matplotlib
+Requires-Dist: pandas
 Provides-Extra: dev
+Requires-Dist: black; extra == "dev"
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: rope; extra == "dev"
+Requires-Dist: flake8; extra == "dev"
+Requires-Dist: flake8-eradicate; extra == "dev"
+Requires-Dist: flake8-isort; extra == "dev"
+Requires-Dist: flake8-spellcheck; extra == "dev"
+Requires-Dist: flake8-variables-names; extra == "dev"
+Requires-Dist: flake8-builtins; extra == "dev"
+Requires-Dist: ipython; extra == "dev"
